@@ -1,6 +1,6 @@
 # Stealph-botnet
 
-#Requirements
+# Requirements
 1.python2.7 installed
 
 
