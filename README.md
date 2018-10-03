@@ -4,7 +4,7 @@
 1.python2.7 installed
 
 
-#how to use:
+# how to use:
 
 1 . run config.py file
 
@@ -16,11 +16,12 @@ and now go to phpmyadmin and import u251400708_brain.sql and go back to you file
 and enter you website url without http
 and in second text field add you btc address (dont use user personal btc address)
 and click build;
-#Done enjoy!!!
+
+# Done enjoy!!!
 
 ![Screenshot](https://github.com/ScRiPt1337/Stealph-botnet/blob/master/Capture.PNG)
 
 
 
 if somethink not working or you facing any problem 
-#contact me here : https://www.facebook.com/script1337/ !!!
+# contact me here : https://www.facebook.com/script1337/ !!!
