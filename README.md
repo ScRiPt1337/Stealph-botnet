@@ -5,7 +5,8 @@
 
 
 #how to use:
-1.run config.py file
+
+1 . run config.py file
 
 2 . first go to web panel folder
 extract web panel.zip and upload it into use website's public html folder
