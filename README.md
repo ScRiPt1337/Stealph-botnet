@@ -11,6 +11,9 @@ and in second text field add you btc address (dont use user personal btc address
 and click build;
 #Done enjoy!!!
 
+![alt text](https://github.com/ScRiPt1337/Stealph-botnet/edit/master/Capture.PNG)
+
+
 
 if somethink not working or you facing any problem 
 #contact me here : https://www.facebook.com/script1337/ !!!
