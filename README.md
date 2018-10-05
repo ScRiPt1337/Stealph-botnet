@@ -19,6 +19,7 @@ and click build now go to dist folder recently created you will find a mai.exe.S
 # video how to setup:
 
 https://www.facebook.com/script1337/videos/2110808289160093/
+https://www.youtube.com/watch?v=BK5IoJC9TSc
 # Done enjoy!!!
  
 
