@@ -1,7 +1,7 @@
 import os
 import urllib
 dir_path = os.path.dirname(os.path.realpath(__file__))
-def ins()
+def ins():
 	os.system("C:\\Python27\\Scripts\\pip.exe install pyinstaller")
 	os.system("C:\\Python27\\Scripts\\pip.exe install simplejson")
 	os.system("C:\\Python27\\Scripts\\pip.exe install pyperclip")
