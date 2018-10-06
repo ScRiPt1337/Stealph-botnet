@@ -14,7 +14,7 @@
 
 5.Cookie Stealer
 
-6.>password Stealer
+6.password Stealer
 
 7.Keylogger
 
