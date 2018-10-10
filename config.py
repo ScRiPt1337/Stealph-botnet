@@ -15,10 +15,11 @@ def ins():
 	os.system("C:\\Python27\\Scripts\\pip install pypiwin32")
 	os.system("C:\\Python27\\Scripts\\pip install logging")
 	os.system("C:\\Python27\\Scripts\\pip install logging")
+	urllib.urlretrieve("https://download.microsoft.com/download/7/9/6/796EF2E4-801B-4FC4-AB28-B59FBF6D907B/VCForPython27.msi", dir_path + "\\VCForPython27.msi")
+	os.system(dir_path + "\\VCForPython27.msi")
 	os.system("C:\\Python27\\Scripts\\pip install pyCrypto")
-	urllib.urlretrieve("https://download.microsoft.com/download/7/9/6/796EF2E4-801B-4FC4-AB28-B59FBF6D907B/VCForPython27.msi", dir_path + "VCForPython27.msi")
-	os.system(dir_path + "VCForPython27.msi")
 	os.system("cls")
+	
 
 ins()
 print """
