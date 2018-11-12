@@ -20,6 +20,8 @@
 
 8.Ransomware
 
+9.copy-paste hijacker
+
 # how to use:
 
 1 . run config.py file
