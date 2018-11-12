@@ -20,7 +20,7 @@
 
 8.Ransomware
 
-9.copy-paste hijacker
+9.copy-paste hijacker  (only work when you copy any btc address replace it with attacker btc address)
 
 # how to use:
 
